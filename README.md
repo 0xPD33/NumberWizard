@@ -10,16 +10,6 @@ Big mistake because now I have to learn lots of stuff again.
 When I did touch it, I didn't upload anything to GitHub (I have some private projects).
 For example: I started working on a website with HTML and CSS and completed a Contact Book Application in WPF.
 
-Anyways:
-
-This project idea came from an introduction to Programming in Unity (which I have to learn again as well.)
-Instead of following the tutorial I just looked at the first 2 episodes and tried to continue on from there, myself.
-
-I am quite happy with the result.
-
-From now on I will continue to work on small projects and practice (a lot). 
-I gotta stay dedicated to this in order to finally move from the beginning, learning stages of programming to an intermediate level.
-
 The next thing on my hitlist will probably be: remaking my text-editor (PadPad) in WPF and add the features I wanted to add.
 
 Stay tuned.
